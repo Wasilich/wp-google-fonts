@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: googlefonts-ru_RU\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: http://netkraft.ru/\n"
+"MIME-Version: 1.0\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.3.1\n"
+
+#. Text in echo
+#: google-fonts.php:1112
+msgid "* CSS WARNING"
+msgstr "* CSS ПРЕДУПРЕЖДЕНИЕ"
+
+#. Text in echo
+#: google-fonts.php:876 google-fonts.php:958 google-fonts.php:999
+#: google-fonts.php:1040 google-fonts.php:1081
+msgid "All (body tags)"
+msgstr "Всё (тег body)"
+
+#. Text in echo
+#: google-fonts.php:883 google-fonts.php:924 google-fonts.php:965
+#: google-fonts.php:1006 google-fonts.php:1047 google-fonts.php:1088
+msgid "Blockquotes"
+msgstr "Цитаты"
+
+#. Text in echo
+#: google-fonts.php:1093
+msgid "Custom CSS:*"
+msgstr "Заказной CSS:*"
+
+#. Text in echo
+#: google-fonts.php:874 google-fonts.php:1079
+msgid "Elements you want to assign this font to:*"
+msgstr "Элементы, которым вы хотите присвоить этот шрифт:*"
+
+#. Text in echo
+#: google-fonts.php:862
+msgid "Font 1 Options"
+msgstr "Шрифт 1 Варианты"
+
+#. Text in echo
+#: google-fonts.php:903
+msgid "Font 2 Options"
+msgstr "Шрифт 2 Варианты"
+
+#. Text in echo
+#: google-fonts.php:944
+msgid "Font 3 Options"
+msgstr "Шрифт 3 Варианты"
+
+#. Text in echo
+#: google-fonts.php:985
+msgid "Font 4 Options"
+msgstr "Шрифт 4 Варианты"
+
+#. Text in echo
+#: google-fonts.php:1026
+msgid "Font 5 Options"
+msgstr "Шрифт 5 Варианты"
+
+#. Text in echo
+#: google-fonts.php:1067
+msgid "Font 6 Options"
+msgstr "Шрифт 6 Варианты"
+
+#. Text in echo
+#: google-fonts.php:558
+msgid "Google Font Control Panel"
+msgstr "Панель управления Google Font"
+
+#. Text in echo
+#: google-fonts.php:1107
+msgid "Google Font Directory"
+msgstr "Каталог Google Font"
+
+#. Text in echo
+#: google-fonts.php:560
+msgid "Google Fonts plugin page"
+msgstr "Страница плагина Google Fonts"
+
+#. Text in echo
+#: google-fonts.php:877 google-fonts.php:918 google-fonts.php:959
+#: google-fonts.php:1000 google-fonts.php:1041 google-fonts.php:1082
+msgid "Headline 1 (h1 tags)"
+msgstr "Заголовок 1 (теги h1)"
+
+#. Text in echo
+#: google-fonts.php:878 google-fonts.php:919 google-fonts.php:960
+#: google-fonts.php:1001 google-fonts.php:1042 google-fonts.php:1083
+msgid "Headline 2 (h2 tags)"
+msgstr "Заголовок 2 (теги h2)"
+
+#. Text in echo
+#: google-fonts.php:879 google-fonts.php:920 google-fonts.php:961
+#: google-fonts.php:1002 google-fonts.php:1043 google-fonts.php:1084
+msgid "Headline 3 (h3 tags)"
+msgstr "Заголовок 3 (теги h3)"
+
+#. Text in echo
+#: google-fonts.php:880 google-fonts.php:921 google-fonts.php:962
+#: google-fonts.php:1003 google-fonts.php:1044 google-fonts.php:1085
+msgid "Headline 4 (h4 tags)"
+msgstr "Заголовок 4 (теги h4)"
+
+#. Text in echo
+#: google-fonts.php:881 google-fonts.php:922 google-fonts.php:963
+#: google-fonts.php:1004 google-fonts.php:1045 google-fonts.php:1086
+msgid "Headline 5 (h5 tags)"
+msgstr "Заголовок 5 (теги h5)"
+
+#. Text in echo
+#: google-fonts.php:882 google-fonts.php:923 google-fonts.php:964
+#: google-fonts.php:1005 google-fonts.php:1046 google-fonts.php:1087
+msgid "Headline 6 (h6 tags)"
+msgstr "Заголовок 6 (теги h6)"
+
+#. Text in echo
+#: google-fonts.php:885 google-fonts.php:926 google-fonts.php:967
+#: google-fonts.php:1008 google-fonts.php:1049 google-fonts.php:1090
+msgid "Lists (li tags)"
+msgstr "Списки (теги li)"
+
+#. Text in echo
+#: google-fonts.php:1113
+msgid "Most likely the theme you are using has defined very specific elements in its stylesheet and these may override the generic tags specified above. If you don&rsquo;t see any changes after checking the style boxes above, you will need to enter custom css into the CSS box. An example of CSS that would be more specific would be:"
+msgstr "Скорее всего, тема, которую вы используете, имеет очень специфические элементы в своей таблице стилей, и они могут переопределить общие теги, указанные выше. Если вы не видите никаких изменений после проверки полей стилей выше, вам нужно будет ввести пользовательский css в поле CSS. Примером CSS, который был бы более конкретным, может быть:"
+
+#. Text in echo
+#: google-fonts.php:868
+msgid "None (Turn off Font 1)"
+msgstr "Нет (Отключить Шрифт 1)"
+
+#. Text in echo
+#: google-fonts.php:909
+msgid "None (Turn off Font 2)"
+msgstr "Нет (Отключить Шрифт 2)"
+
+#. Text in echo
+#: google-fonts.php:950
+msgid "None (Turn off Font 3)"
+msgstr "Нет (Отключить Шрифт 3)"
+
+#. Text in echo
+#: google-fonts.php:991
+msgid "None (Turn off Font 4)"
+msgstr "Нет (Отключить Шрифт 4)"
+
+#. Text in echo
+#: google-fonts.php:1033
+msgid "None (Turn off Font 5)"
+msgstr "Нет (Отключить Шрифт 5)"
+
+#. Text in echo
+#: google-fonts.php:1073
+msgid "None (Turn off Font 6)"
+msgstr "Нет (Отключить Шрифт 6)"
+
+#. Text in echo
+#: google-fonts.php:884 google-fonts.php:925 google-fonts.php:966
+#: google-fonts.php:1007 google-fonts.php:1048 google-fonts.php:1089
+msgid "Paragraphs (p tags)"
+msgstr "Параграфы (теги p)"
+
+#. Text in echo
+#: google-fonts.php:1098
+msgid "Save"
+msgstr "Сохранить"
+
+#. Text in echo
+#: google-fonts.php:1069
+msgid "Select Font:"
+msgstr "Выбор Шрифта:"
+
+#. Text in echo
+#: google-fonts.php:560
+msgid "Thanks for using Google Fonts, and I hope you like this plugin."
+msgstr "Спасибо за использование шрифтов Google, и я надеюсь, что вам понравится этот плагин."
+
+#. Text in echo
+#: google-fonts.php:1104
+msgid "The most common error occurs when a font is specified as \"off\" but has boxes checked beneath it. Make sure that there are no boxes checked beneath a font that you want to be off."
+msgstr "Наиболее распространенная ошибка возникает, когда шрифт указан как \"выкл.\", но под ним установлены галочки. Убедитесь, что под шрифтом, который вы хотите отключить, нет галочек."
+
+#. Text in echo
+#: google-fonts.php:560
+msgid "This control panel gives you the ability to control how your Google Fonts fonts are displayed. For more information about this plugin, please visit the"
+msgstr "Эта панель управления дает вам возможность управлять тем, как отображаются ваши шрифты Google Fonts. Для получения более подробной информации об этом плагине, пожалуйста, посетите"
+
+#. Text in echo
+#: google-fonts.php:1106
+msgid "This plugin uses open source fonts that are hosted on Google&rsquo;s servers. For more information about this service, you can visit the"
+msgstr "Этот плагин использует шрифты с открытым исходным кодом, размещенные на серверах Google. Для получения более подробной информации об этой услуге вы можете посетить"
+
+#. Text in echo
+#: google-fonts.php:1117
+msgid "This would define all paragraphs found within a &lt;div id=&quot;container&quot;&gt;&lt;/div&gt; element. Stylesheets (CSS) can be sensitive and tricky sometimes. If you are new to CSS the <a href=\"http://www.w3schools.com/css/\" title=\"w3schools tutorials\">w3schools tutorials</a> are a great place to start."
+msgstr "Это позволит определить все параграфы расположенные в &lt;div id=&quot;container&quot;&gt;&lt;/div&gt;. Таблицы стилей (CSS) могут быть сложными. Если вы новичок в CSS, то <a href=\"http://www.w3schools.com/css/\" title=\"w3schools tutorials\">w3schools tutorials</a> отличное место для начала изучения."
+
+#. Text in echo
+#: google-fonts.php:1103
+msgid "Troubleshooting"
+msgstr "Диагностика"
